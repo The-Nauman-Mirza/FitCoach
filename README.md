@@ -4,7 +4,7 @@ A modern, responsive portfolio website for a gym trainer, built using **React**,
 
 ## 🚀 Live Demo
 
-🔗 [Visit the Live Site](https://your-vercel-url.vercel.app)
+🔗 [Visit the Live Site]([https://your-vercel-url.vercel.app](https://fit-coach-the-nauman-mirzas-projects.vercel.app/))
 
 ---
 
@@ -15,7 +15,7 @@ A modern, responsive portfolio website for a gym trainer, built using **React**,
 - 🌐 Social media links with icon hover effects
 - ✨ Tailwind CSS for utility-first design and animations
 - 🧑‍💻 Modular React components for clean structure
-- ☁️ Hosted on [Vercel](https://vercel.com)
+- ☁️ Hosted on [Vercel]([https://vercel.com](https://fit-coach-the-nauman-mirzas-projects.vercel.app/))
 
 ---
 
