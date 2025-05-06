@@ -10,7 +10,6 @@ A modern, responsive portfolio website for a gym trainer, built using **React**,
 
 ## 📸 Features
 
-- ⚡ Interactive animated background using `Vanta.js`
 - 🎯 Fully responsive layout (mobile/tablet/desktop)
 - 📬 Contact form with stylish validation-ready inputs
 - 🌐 Social media links with icon hover effects
@@ -24,10 +23,22 @@ A modern, responsive portfolio website for a gym trainer, built using **React**,
 
 - **Frontend:** React, Tailwind CSS
 - **Icons:** React Icons
-- **Background Animation:** Vanta.js
 - **Deployment:** Vercel
 
 ---
 
 ## 📂 Folder Structure
+src/
+│
+├── components/
+│ ├── Contact.jsx 
+│ ├── Header.jsx 
+│ ├── Hero.jsx 
+│ ├── Services.jsx 
+│ ├── Testimonials.jsx 
+│ └── Footer.jsx
+│ └── Gallery.jsx
+│
+├── assets/ # Images and Vanta background scripts
+└── App.jsx # Main app container
 
