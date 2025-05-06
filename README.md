@@ -1,12 +1,33 @@
-# React + Vite
+# 💪 Gym Trainer Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive portfolio website for a gym trainer, built using **React**, **Tailwind CSS**, and **Vanta.js** for interactive backgrounds. It showcases contact options, real-time interactions, and social media connectivity — all deployed seamlessly on **Vercel**.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔗 [Visit the Live Site](https://your-vercel-url.vercel.app)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📸 Features
+
+- ⚡ Interactive animated background using `Vanta.js`
+- 🎯 Fully responsive layout (mobile/tablet/desktop)
+- 📬 Contact form with stylish validation-ready inputs
+- 🌐 Social media links with icon hover effects
+- ✨ Tailwind CSS for utility-first design and animations
+- 🧑‍💻 Modular React components for clean structure
+- ☁️ Hosted on [Vercel](https://vercel.com)
+
+---
+
+## 🛠 Tech Stack
+
+- **Frontend:** React, Tailwind CSS
+- **Icons:** React Icons
+- **Background Animation:** Vanta.js
+- **Deployment:** Vercel
+
+---
+
+## 📂 Folder Structure
+
